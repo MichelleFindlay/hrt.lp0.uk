@@ -1,3 +1,4 @@
+
  
 <!DOCTYPE html>
 <html lang="en">
@@ -56,6 +57,8 @@
     <div>
         <h1>HRT started on June 29, 2023, 3PM ⚕️💊👩 (HRT):</h1>
         <p id="timeElapsed"></p>
+        <p><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <a href="https://github.com/MichelleFindlay/hrt.lp0.uk" target="_BLANK"><img src="https://img.shields.io/badge/View%20Source-100000?style=for-the-badge&logo=github&logoColor=white&text=View"/></a></p>
+
     </div>
 </body>
 </html>
