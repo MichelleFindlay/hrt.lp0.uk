@@ -1,4 +1,3 @@
-
  
 <!DOCTYPE html>
 <html lang="en">
@@ -52,12 +51,14 @@
 
         setInterval(updateTime, 1000);
     </script>
+    
 </head>
 <body onload="updateTime()">
     <div>
-        <h1>HRT started on June 29, 2023, 3PM ⚕️💊👩 (HRT):</h1>
+        <h1>HRT started on June 29, 2023, 3PM ⚕️💊👩:</h1>
         <p id="timeElapsed"></p>
         <p><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <a href="https://github.com/MichelleFindlay/hrt.lp0.uk" target="_BLANK"><img src="https://img.shields.io/badge/View%20Source-100000?style=for-the-badge&logo=github&logoColor=white&text=View"/></a></p>
+        <p><a href="https://hrt.lp0.uk/prog"><img src="https://img.shields.io/badge/HRT-Progesterone%20Tracker-blue"/></a></p>
 
     </div>
 </body>
